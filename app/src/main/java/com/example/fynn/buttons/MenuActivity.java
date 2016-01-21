@@ -36,7 +36,7 @@ private static Button button_new_game,button_scores;
                 {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-                        finish();
+                        System.exit(0);
 
                     }
 

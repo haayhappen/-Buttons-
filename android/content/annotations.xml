@@ -1,5 +1,12 @@
 <root>
+  <item name='android.content.Intent ACTION_MAIN'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
   <item name='android.content.Intent CATEGORY_DEFAULT'>
     <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+  <item name='android.content.Intent CATEGORY_LAUNCHER'>
+    <annotation name='java.lang.annotation.Deprecated' />
+    <annotation name='android.support.annotation.NonNull' />
   </item>
 </root>
