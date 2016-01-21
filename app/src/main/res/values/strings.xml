@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="title_activity_new_game">New Game</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="newGame">New Game</string>
+    <string name="chooseDifficulty">Choose Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="dontEvenTry">Don\'t even try</string>
+    <string name="menu">Menu</string>
+    <string name="menu_NewGame">New Game</string>
+    <string name="menu_scores">Scores</string>
+    <string name="btn_red">red</string>
+    <string name="btn_yellow">yellow</string>
+    <string name="btn_green">green</string>
+    <string name="btn_blue">blue</string>
+    <string name="picturebox">picture</string>
+    <string name="difficulty">diff</string>
+    <string name="game_over">Game over</string>
+    <string name="menu_button_gameover">Menu</string>
+    <string name="your_score">Your Score:</string>
+    <string name="button_try_again">Try Again</string>
+    <string name="show_score">20</string>
+    <string name="show_points">1</string>
+    <string name="startgame">Start</string>
+    <string name="hithecolor">Hit the color you see on the screen as fast as you can!</string>
+    <string name="counter">counter</string>
+    <string name="title_activity_scores">ScoresActivity</string>
+    <string name="highscores">Highscores</string>
+    <string name="backtomenu">Menu</string>
+    <string name="third">3.</string>
+    <string name="second">2.</string>
+    <string name="first">1.</string>
+    <string name="contetnimgview">contentdescription</string>
+</resources>

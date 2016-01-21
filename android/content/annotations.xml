@@ -1,0 +1,5 @@
+<root>
+  <item name='android.content.Intent CATEGORY_DEFAULT'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
